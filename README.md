@@ -1,27 +1,43 @@
-# AcmeUsersMgmt
+# Acme Usera Management Table Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+This is a simple web app that generates a **dynamic table** from **JSON data**, with features to **view** and **edit** each row. The table updates in real-time based on the JSON input.
 
-## Development server
+## 🚀 Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Dynamically generates a table from JSON
+- View individual row details
+-  Edit table data inline
+-  Real-time updates
+- Deployed on Netlify
 
-## Code scaffolding
+## 🌎 Live Demo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[Click here to view the live app](https://acmeinusers-twisted-mountain-harshit.netlify.app/)
 
-## Build
+https://acmeinusers-twisted-mountain-harshit.netlify.app/
+## 🖼️ Screenshot
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## List View
 
-## Running unit tests
+<img width="1891" height="1004" alt="image" src="https://github.com/user-attachments/assets/d4a4d69e-ed60-4036-8b86-e2197cb1f37c" />
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Details  View
+<img width="1904" height="999" alt="image" src="https://github.com/user-attachments/assets/96f74853-d8b5-40c2-9089-6ecf473d15e2" />
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Edit  View
+<img width="1881" height="656" alt="image" src="https://github.com/user-attachments/assets/61e16148-d9c8-4ed9-a4bd-6fe44af3d619" />
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 📁 How to Use in code vs
+
+1. Clone the repo:
+
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Harshit-Badaya/acme.inc-app-twisted-mountain-animation.git)
+
+
+
+
+
