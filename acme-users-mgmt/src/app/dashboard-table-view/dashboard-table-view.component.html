@@ -1,0 +1,7 @@
+<h2 class="page-title">Acme Inc – User details</h2>
+
+<div *ngIf="item">
+  <div *ngFor="let entry of item | keyvalue">
+    <p><strong>{{ entry.key }}:</strong> {{ entry.value }}</p>
+  </div>
+</div>
